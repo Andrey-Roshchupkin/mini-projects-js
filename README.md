@@ -20,3 +20,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Hidden Search Widget](https://andrey-roshchupkin.github.io/mini-projects-js/8_hidden_search_widget)
 
 [Load Blur Effect](https://andrey-roshchupkin.github.io/mini-projects-js/9_load_blur_effect)
+
+[Scroll Animation](https://andrey-roshchupkin.github.io/mini-projects-js/10_scroll_animation)
