@@ -26,3 +26,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Split Landing Page](https://andrey-roshchupkin.github.io/mini-projects-js/11_split_landing_page)
 
 [Form Input Wave](https://andrey-roshchupkin.github.io/mini-projects-js/12_form_wave_animation)
+
+[Sound Board](https://andrey-roshchupkin.github.io/mini-projects-js/13_sound_board)
