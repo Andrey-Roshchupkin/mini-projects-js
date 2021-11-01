@@ -7,7 +7,7 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 
 [Cards Slider](https://andrey-roshchupkin.github.io/mini-projects-js/2_cards_slider)
 
-[Drag&Drop](https://andrey-roshchupkin.github.io/mini-projects-js/3_drag_n_drop)
+[Drag & Drop](https://andrey-roshchupkin.github.io/mini-projects-js/3_drag_n_drop)
 
 [Hover Board](https://andrey-roshchupkin.github.io/mini-projects-js/4_hover_board)
 
@@ -22,3 +22,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Load Blur Effect](https://andrey-roshchupkin.github.io/mini-projects-js/9_load_blur_effect)
 
 [Scroll Animation](https://andrey-roshchupkin.github.io/mini-projects-js/10_scroll_animation)
+
+[Split Landing Page](https://andrey-roshchupkin.github.io/mini-projects-js/11_split_landing_page)
