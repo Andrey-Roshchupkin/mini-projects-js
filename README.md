@@ -24,3 +24,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Scroll Animation](https://andrey-roshchupkin.github.io/mini-projects-js/10_scroll_animation)
 
 [Split Landing Page](https://andrey-roshchupkin.github.io/mini-projects-js/11_split_landing_page)
+
+[Form Input Wave](https://andrey-roshchupkin.github.io/mini-projects-js/12_form_wave_animation)
