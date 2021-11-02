@@ -34,3 +34,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Event KeyCodes](https://andrey-roshchupkin.github.io/mini-projects-js/15_key_code)
 
 [FAQ Boxes](https://andrey-roshchupkin.github.io/mini-projects-js/16_faq_boxes)
+
+[Random Choice Picker](https://andrey-roshchupkin.github.io/mini-projects-js/17_random_choice_picker)
