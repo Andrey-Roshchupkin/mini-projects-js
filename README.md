@@ -40,3 +40,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Animated Navigation](https://andrey-roshchupkin.github.io/mini-projects-js/18_animated_navigation)
 
 [Incrementing Counter](https://andrey-roshchupkin.github.io/mini-projects-js/19_incrementig_counter)
+
+[Drinking Progress](https://andrey-roshchupkin.github.io/mini-projects-js/20_drinking_progress)
