@@ -42,3 +42,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Incrementing Counter](https://andrey-roshchupkin.github.io/mini-projects-js/19_incrementig_counter)
 
 [Drinking Progress](https://andrey-roshchupkin.github.io/mini-projects-js/20_drinking_progress)
+
+[Movie App](https://andrey-roshchupkin.github.io/mini-projects-js/21_movie_app)
