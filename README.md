@@ -3,44 +3,44 @@
 These are mini projects that I do for practice in JavaScript.
 I used ideas from various development marathons, YouTube video tutorials and educational literature.
 
-[Aim Game](https://andrey-roshchupkin.github.io/mini-projects-js/1_aim_game)
+[Aim Game](https://andrey-roshchupkin.github.io/mini-projects-js/001_aim_game)
 
-[Cards Slider](https://andrey-roshchupkin.github.io/mini-projects-js/2_cards_slider)
+[Cards Slider](https://andrey-roshchupkin.github.io/mini-projects-js/002_cards_slider)
 
-[Drag & Drop](https://andrey-roshchupkin.github.io/mini-projects-js/3_drag_n_drop)
+[Drag & Drop](https://andrey-roshchupkin.github.io/mini-projects-js/003_drag_n_drop)
 
-[Hover Board](https://andrey-roshchupkin.github.io/mini-projects-js/4_hover_board)
+[Hover Board](https://andrey-roshchupkin.github.io/mini-projects-js/004_hover_board)
 
-[Vertical Slider](https://andrey-roshchupkin.github.io/mini-projects-js/5_slider)
+[Vertical Slider](https://andrey-roshchupkin.github.io/mini-projects-js/005_slider)
 
-[Progress Steps](https://andrey-roshchupkin.github.io/mini-projects-js/6_progress_steps)
+[Progress Steps](https://andrey-roshchupkin.github.io/mini-projects-js/006_progress_steps)
 
-[Rotating Navigation](https://andrey-roshchupkin.github.io/mini-projects-js/7_rotating_navigation)
+[Rotating Navigation](https://andrey-roshchupkin.github.io/mini-projects-js/007_rotating_navigation)
 
-[Hidden Search Widget](https://andrey-roshchupkin.github.io/mini-projects-js/8_hidden_search_widget)
+[Hidden Search Widget](https://andrey-roshchupkin.github.io/mini-projects-js/008_hidden_search_widget)
 
-[Load Blur Effect](https://andrey-roshchupkin.github.io/mini-projects-js/9_load_blur_effect)
+[Load Blur Effect](https://andrey-roshchupkin.github.io/mini-projects-js/009_load_blur_effect)
 
-[Scroll Animation](https://andrey-roshchupkin.github.io/mini-projects-js/10_scroll_animation)
+[Scroll Animation](https://andrey-roshchupkin.github.io/mini-projects-js/010_scroll_animation)
 
-[Split Landing Page](https://andrey-roshchupkin.github.io/mini-projects-js/11_split_landing_page)
+[Split Landing Page](https://andrey-roshchupkin.github.io/mini-projects-js/011_split_landing_page)
 
-[Form Input Wave](https://andrey-roshchupkin.github.io/mini-projects-js/12_form_wave_animation)
+[Form Input Wave](https://andrey-roshchupkin.github.io/mini-projects-js/012_form_wave_animation)
 
-[Sound Board](https://andrey-roshchupkin.github.io/mini-projects-js/13_sound_board)
+[Sound Board](https://andrey-roshchupkin.github.io/mini-projects-js/013_sound_board)
 
-[Dad Jokes](https://andrey-roshchupkin.github.io/mini-projects-js/14_dad_jokes)
+[Dad Jokes](https://andrey-roshchupkin.github.io/mini-projects-js/014_dad_jokes)
 
-[Event KeyCodes](https://andrey-roshchupkin.github.io/mini-projects-js/15_key_code)
+[Event KeyCodes](https://andrey-roshchupkin.github.io/mini-projects-js/015_key_code)
 
-[FAQ Boxes](https://andrey-roshchupkin.github.io/mini-projects-js/16_faq_boxes)
+[FAQ Boxes](https://andrey-roshchupkin.github.io/mini-projects-js/016_faq_boxes)
 
-[Random Choice Picker](https://andrey-roshchupkin.github.io/mini-projects-js/17_random_choice_picker)
+[Random Choice Picker](https://andrey-roshchupkin.github.io/mini-projects-js/017_random_choice_picker)
 
-[Animated Navigation](https://andrey-roshchupkin.github.io/mini-projects-js/18_animated_navigation)
+[Animated Navigation](https://andrey-roshchupkin.github.io/mini-projects-js/018_animated_navigation)
 
-[Incrementing Counter](https://andrey-roshchupkin.github.io/mini-projects-js/19_incrementig_counter)
+[Incrementing Counter](https://andrey-roshchupkin.github.io/mini-projects-js/019_incrementig_counter)
 
-[Drinking Progress](https://andrey-roshchupkin.github.io/mini-projects-js/20_drinking_progress)
+[Drinking Progress](https://andrey-roshchupkin.github.io/mini-projects-js/020_drinking_progress)
 
-[Movie App](https://andrey-roshchupkin.github.io/mini-projects-js/21_movie_app)
+[Movie App](https://andrey-roshchupkin.github.io/mini-projects-js/021_movie_app)
