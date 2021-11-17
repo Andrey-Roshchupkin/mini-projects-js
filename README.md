@@ -44,3 +44,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Drinking Progress](https://andrey-roshchupkin.github.io/mini-projects-js/020_drinking_progress)
 
 [Movie App](https://andrey-roshchupkin.github.io/mini-projects-js/021_movie_app)
+
+[Background Slider](https://andrey-roshchupkin.github.io/mini-projects-js/022_background_slider)
