@@ -46,3 +46,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Movie App](https://andrey-roshchupkin.github.io/mini-projects-js/021_movie_app)
 
 [Background Slider](https://andrey-roshchupkin.github.io/mini-projects-js/022_background_slider)
+
+[Theme Clock](https://andrey-roshchupkin.github.io/mini-projects-js/023_theme_clock)
