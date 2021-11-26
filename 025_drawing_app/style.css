@@ -2,6 +2,7 @@
 
 * {
   box-sizing: border-box;
+  user-select: none;
 }
 
 body {
@@ -21,13 +22,14 @@ canvas {
 
 .toolbox {
   background-color: steelblue;
-  border: 1px solid steelblue;
+  border: 2px solid steelblue;
   display: flex;
   width: 600px;
   padding: 1rem;
 }
 
 .toolbox > * {
+  cursor: pointer;
   background-color: #fff;
   border: none;
   display: inline-flex;
@@ -42,4 +44,8 @@ canvas {
 
 .toolbox > *:last-child {
   margin-left: auto;
+}
+
+#size {
+  cursor: auto;
 }

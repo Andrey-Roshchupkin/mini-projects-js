@@ -36,6 +36,12 @@ canvas.addEventListener("mousemove", (e) => {
   }
 });
 
+canvas.addEventListener("click", (e) => {
+  const x2 = e.offsetX;
+  const y2 = e.offsetY;
+  drawCircle(x2, y2);
+});
+
 function drawCircle(x, y) {
   context.beginPath();
   context.arc(x, y, size, 0, Math.PI * 2);
