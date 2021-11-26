@@ -48,3 +48,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Background Slider](https://andrey-roshchupkin.github.io/mini-projects-js/022_background_slider)
 
 [Theme Clock](https://andrey-roshchupkin.github.io/mini-projects-js/023_theme_clock)
+
+[Button Ripple Effect](https://andrey-roshchupkin.github.io/mini-projects-js/024_button ripple_effect)
