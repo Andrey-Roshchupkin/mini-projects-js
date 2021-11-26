@@ -49,4 +49,6 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 
 [Theme Clock](https://andrey-roshchupkin.github.io/mini-projects-js/023_theme_clock)
 
-[Button Ripple Effect](https://andrey-roshchupkin.github.io/mini-projects-js/024_button ripple_effect)
+[Button Ripple Effect](https://andrey-roshchupkin.github.io/mini-projects-js/024_button_ripple_effect)
+
+[Drawing App](https://andrey-roshchupkin.github.io/mini-projects-js/025_drawing_app)
