@@ -53,4 +53,4 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 
 [Drawing App](https://andrey-roshchupkin.github.io/mini-projects-js/025_drawing_app)
 
-[Drawing App](https://andrey-roshchupkin.github.io/mini-projects-js/026_kinetic_css_loader)
+[Kinetic CSS Loader](https://andrey-roshchupkin.github.io/mini-projects-js/026_kinetic_css_loader)
