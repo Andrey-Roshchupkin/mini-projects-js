@@ -55,6 +55,8 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 
 [Kinetic CSS Loader](https://andrey-roshchupkin.github.io/mini-projects-js/026_kinetic_css_loader)
 
-[Contetnt Placeholder](https://andrey-roshchupkin.github.io/mini-projects-js/027_content_placeholder)
+[Content Placeholder](https://andrey-roshchupkin.github.io/mini-projects-js/027_content_placeholder)
 
-[Contetnt Placeholder](https://andrey-roshchupkin.github.io/mini-projects-js/028_sticky_navigation)
+[Sticky Navigation](https://andrey-roshchupkin.github.io/mini-projects-js/028_sticky_navigation)
+
+[Toast Notification](https://andrey-roshchupkin.github.io/mini-projects-js/029_toast_notification)
