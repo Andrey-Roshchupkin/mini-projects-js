@@ -62,3 +62,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Toast Notification](https://andrey-roshchupkin.github.io/mini-projects-js/029_toast_notification)
 
 [Github Profiles](https://andrey-roshchupkin.github.io/mini-projects-js/030_github_profiles)
+
+[Double Heart Click](https://andrey-roshchupkin.github.io/mini-projects-js/031_double_heart_click)
