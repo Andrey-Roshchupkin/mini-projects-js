@@ -60,3 +60,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Sticky Navigation](https://andrey-roshchupkin.github.io/mini-projects-js/028_sticky_navigation)
 
 [Toast Notification](https://andrey-roshchupkin.github.io/mini-projects-js/029_toast_notification)
+
+[Github Profiles](https://andrey-roshchupkin.github.io/mini-projects-js/030_github_profiles)
