@@ -68,3 +68,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Auto Text Effect](https://andrey-roshchupkin.github.io/mini-projects-js/032_auto_text_effect)
 
 [Password Generator](https://andrey-roshchupkin.github.io/mini-projects-js/033_password_generator)
+
+[Good Cheap Fast Checkboxes](https://andrey-roshchupkin.github.io/mini-projects-js/034_good_cheap_fast_checkboxes)
