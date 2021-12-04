@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Auto Text Effect</title>
+  </head>
+  <body>
+    <h1 id="text">Starting...</h1>
+    <div class="textInput">
+      <label for="textInput">Type some text:</label>
+      <input
+        type="text"
+        id="textInput"
+        name="textInput"
+        maxlength="50"
+        value="We Love Programming!"
+      />
+    </div>
+    <div class="speed">
+      <label for="speed">Speed:</label>
+      <input
+        type="number"
+        id="speed"
+        name="speed"
+        value="1"
+        min="1"
+        max="10"
+        step="1"
+      />
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
