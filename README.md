@@ -66,3 +66,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Double Heart Click](https://andrey-roshchupkin.github.io/mini-projects-js/031_double_heart_click)
 
 [Auto Text Effect](https://andrey-roshchupkin.github.io/mini-projects-js/032_auto_text_effect)
+
+[Password Generator](https://andrey-roshchupkin.github.io/mini-projects-js/033_password_generator)
