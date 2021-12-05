@@ -70,3 +70,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Password Generator](https://andrey-roshchupkin.github.io/mini-projects-js/033_password_generator)
 
 [Good Cheap Fast Checkboxes](https://andrey-roshchupkin.github.io/mini-projects-js/034_good_cheap_fast_checkboxes)
+
+[Note App](https://andrey-roshchupkin.github.io/mini-projects-js/035_note_app)
