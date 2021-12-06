@@ -74,3 +74,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Note App](https://andrey-roshchupkin.github.io/mini-projects-js/035_note_app)
 
 [Animated Countdown](https://andrey-roshchupkin.github.io/mini-projects-js/036_animated_countdown)
+
+[Image Carousel](https://andrey-roshchupkin.github.io/mini-projects-js/037_image_carousel)
