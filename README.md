@@ -76,3 +76,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Animated Countdown](https://andrey-roshchupkin.github.io/mini-projects-js/036_animated_countdown)
 
 [Image Carousel](https://andrey-roshchupkin.github.io/mini-projects-js/037_image_carousel)
+
+[Pokedex](https://andrey-roshchupkin.github.io/mini-projects-js/038_pokedex)
