@@ -78,3 +78,5 @@ I used ideas from various development marathons, YouTube video tutorials and edu
 [Image Carousel](https://andrey-roshchupkin.github.io/mini-projects-js/037_image_carousel)
 
 [Pokedex](https://andrey-roshchupkin.github.io/mini-projects-js/038_pokedex)
+
+[Mobile Tab Navigation](https://andrey-roshchupkin.github.io/mini-projects-js/039_mobile_tab_navigation)
